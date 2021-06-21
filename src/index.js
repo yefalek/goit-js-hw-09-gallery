@@ -1,5 +1,5 @@
 import './sass/main.scss';
-import images from "./gallery.js";
+import images from "./gallery";
 
 const galleryContainer = document.querySelector('.js-gallery ');
 const modal = document.querySelector('.js-lightbox');
